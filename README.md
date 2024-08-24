@@ -1,2 +1,2 @@
 # git-mock
-Trial of git 
+Trial of git.
